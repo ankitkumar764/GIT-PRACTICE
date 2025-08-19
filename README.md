@@ -1,6 +1,3 @@
-MY  NAME IS ANKIT KUMAR 
-I AM A STUDENT OF SU.
-I AM LEARNING WEB DEVLOPMENT 
-i am 19 years old.
-i belongs from bihar(patna)
-hii everyone
+i am ankit kumar.
+i am from bihar(patna).
+i am a student of BE(Bachlor of Engineering).
